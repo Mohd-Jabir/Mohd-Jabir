@@ -22,7 +22,7 @@
 
 ### 🎯 Problem Solving 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/mohd_jabir_?theme=dark&font=Baloo)](https://leetcode.com/mohd_jabir_/)  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mohd_jabir_?theme=dark&font=Baloo)](https://leetcode.com/mohd_jabir_/)
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-Akbar__Ali__-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/Akbar_Ali_)
 
 ---
