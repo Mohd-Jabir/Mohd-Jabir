@@ -50,17 +50,12 @@
 ## 🎖️ HackerRank Skill Badges
 
 <div align="center">
-  
-**🏆 Earned Skill Badges:**
-
-<img src="https://img.shields.io/badge/Problem_Solving-★★★★★-FFD700?style=for-the-badge&logo=hackerrank&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-★★★★★-FFD700?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-★★★★★-FFD700?style=for-the-badge&logo=java&logoColor=white" />
-
-<img src="https://img.shields.io/badge/C_Language-★★★★-C0C0C0?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-★★★-CD7F32?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/30_Days_of_Code-✓-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Problem_Solving-5★-2EC866?style=flat&logo=hackerrank&logoColor=white" width="120" />
+  <img src="https://img.shields.io/badge/C++-5★-2EC866?style=flat&logo=cplusplus&logoColor=white" width="80" />
+  <img src="https://img.shields.io/badge/Java-5★-2EC866?style=flat&logo=java&logoColor=white" width="80" />
+  <img src="https://img.shields.io/badge/C-4★-00A1C9?style=flat&logo=c&logoColor=white" width="60" />
+  <img src="https://img.shields.io/badge/Python-3★-FFD43B?style=flat&logo=python&logoColor=black" width="80" />
+  <img src="https://img.shields.io/badge/30_Days_Code-✓-FF6B6B?style=flat&logo=hackerrank&logoColor=white" width="110" />
 </div>
 
 ---
@@ -117,10 +112,13 @@ const currentFocus = {
 
 
 
-## 📈 Coding Activity
+## 🏆 Contest Performance
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohd-Jabir&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://img.shields.io/badge/LeetCode_Rating-1276-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Global_Rank-698,818-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Top_Percentile-97.97%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Contests_Attended-13-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </div>
 
 ---
