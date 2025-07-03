@@ -42,7 +42,7 @@
 ## 🏆 LeetCode Badges
 
 <div align="center">
-  <img src="https://leetcode.com/static/images/badges/2025/lg/2025-50-lg.png" width="80" alt="50 Days Badge 2025"/>
+  <img src="https://leetcode.com/medal/?showImg=0&id=7068249&isLevel=false" width="100" alt="50 Days Badge 2025"/>
 </div>
 
 ---
@@ -50,12 +50,17 @@
 ## 🎖️ HackerRank Skill Badges
 
 <div align="center">
-  <img src="https://hrcdn.net/fcore/assets/badges/problem-solving-ecf8b4a5c4.svg" width="80" alt="Problem Solving 5-Star"/>
-  <img src="https://hrcdn.net/fcore/assets/badges/c-cb0a9c7d35.svg" width="80" alt="C++ 5-Star"/>
-  <img src="https://hrcdn.net/fcore/assets/badges/java-2fad557dcc.svg" width="80" alt="Java 5-Star"/>
-  <img src="https://hrcdn.net/fcore/assets/badges/c-6a3fb6c3b4.svg" width="80" alt="C 4-Star"/>
-  <img src="https://hrcdn.net/fcore/assets/badges/python-ccb17d7d6b.svg" width="80" alt="Python 3-Star"/>
-  <img src="https://hrcdn.net/fcore/assets/badges/30-days-of-code-28c9a8b019.svg" width="80" alt="30 Days of Code"/>
+  
+**🏆 Earned Skill Badges:**
+
+<img src="https://img.shields.io/badge/Problem_Solving-★★★★★-FFD700?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-★★★★★-FFD700?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-★★★★★-FFD700?style=for-the-badge&logo=java&logoColor=white" />
+
+<img src="https://img.shields.io/badge/C_Language-★★★★-C0C0C0?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-★★★-CD7F32?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/30_Days_of_Code-✓-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+
 </div>
 
 ---
@@ -71,7 +76,27 @@
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+### Languages & Tools
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
+
+</div>
+
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Jabir&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohd-Jabir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Jabir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
 ## 🔥 Current Focus
 
 ```javascript
@@ -90,6 +115,15 @@ const currentFocus = {
 
 ---
 
+
+
+## 📈 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohd-Jabir&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohd-Jabir&style=flat-square&color=blue" alt="Profile views" />
