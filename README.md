@@ -22,64 +22,40 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
   <a href="https://leetcode.com/mohd_jabir_" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+    <img src="https://skillicons.dev/icons?i=leetcode" width="50" alt="LeetCode"/>
   </a>
   <a href="https://www.hackerrank.com/Akbar_Ali_" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="50" alt="HackerRank"/>
   </a>
   <a href="https://www.linkedin.com/in/mohd-jabir-515ba7263" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
   </a>
-</p>
+  <a href="https://github.com/Mohd-Jabir" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+  </a>
+</div>
 
 ---
 
-## 🏆 Problem Solving Achievements
+## 🏆 LeetCode Badges
 
-### 🎯 LeetCode Profile Stats
 <div align="center">
-
-**📊 Current Stats:**
-- ✅ **Problems Solved:** 144/3601
-- 🎯 **Contest Rating:** 1,276 (Top 97.97%)
-- 🏆 **Global Ranking:** 698,818/713,591
-- 🔥 **Max Streak:** 26 days
-- 📈 **Total Active Days:** 77 days
-- 📅 **Contests Attended:** 13
-
-**🏅 Earned LeetCode Badge:**
-- 🎖️ **50 Days Badge 2025** (Most Recent)
-
-**💡 Problem Distribution:**
-- 🟢 **Easy:** 79/883 solved
-- 🟡 **Medium:** 61/1872 solved  
-- 🔴 **Hard:** 4/846 solved
-
+  <img src="https://leetcode.com/static/images/badges/2025/lg/2025-50-lg.png" width="80" alt="50 Days Badge 2025"/>
 </div>
 
-### 🎖️ HackerRank Achievements
+---
+
+## 🎖️ HackerRank Skill Badges
+
 <div align="center">
-
-**🏆 Earned Skill Badges:**
-
-**🥇 5-Star Badges:**
-- 🌟🌟🌟🌟🌟 **Problem Solving**
-- 🌟🌟🌟🌟🌟 **C++**
-- 🌟🌟🌟🌟🌟 **Java**
-
-**🥈 4-Star Badges:**
-- 🌟🌟🌟🌟 **C Language**
-
-**🥉 3-Star Badges:**
-- 🌟🌟🌟 **Python**
-- 🌟🌟🌟 **10 Days of JS**
-
-**📊 Challenge Badges:**
-- 🏅 **30 Days of Code**
-- 📈 **10 Days of Statistics**
-
+  <img src="https://hrcdn.net/fcore/assets/badges/problem-solving-ecf8b4a5c4.svg" width="80" alt="Problem Solving 5-Star"/>
+  <img src="https://hrcdn.net/fcore/assets/badges/c-cb0a9c7d35.svg" width="80" alt="C++ 5-Star"/>
+  <img src="https://hrcdn.net/fcore/assets/badges/java-2fad557dcc.svg" width="80" alt="Java 5-Star"/>
+  <img src="https://hrcdn.net/fcore/assets/badges/c-6a3fb6c3b4.svg" width="80" alt="C 4-Star"/>
+  <img src="https://hrcdn.net/fcore/assets/badges/python-ccb17d7d6b.svg" width="80" alt="Python 3-Star"/>
+  <img src="https://hrcdn.net/fcore/assets/badges/30-days-of-code-28c9a8b019.svg" width="80" alt="30 Days of Code"/>
 </div>
 
 ---
@@ -95,27 +71,7 @@
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
-### Languages & Tools
-<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
-
-</div>
-
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Jabir&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohd-Jabir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Jabir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 🔥 Current Focus
 
 ```javascript
@@ -134,15 +90,6 @@ const currentFocus = {
 
 ---
 
-
-
-## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohd-Jabir&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohd-Jabir&style=flat-square&color=blue" alt="Profile views" />
