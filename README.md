@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <b>🚀 Crafting Modern Web Solutions | 🎯 Competitive Programming | 🌟 3D Web Experiences</b>
+  <b>🚀 Creating Modern Web  | 🎯 Problem Solver | 🌟 3D Web Experiences</b>
 </p>
 
 ---
@@ -13,10 +13,10 @@
 ## 👨‍💻 About Me
 
 🎓 **3rd Year CSE Student** at United Institute of Technology  
-💻 **MERN Stack Developer** specializing in modern web applications  
+💻 **MERN Stack Developer** 
 🎨 **3D Web Developer** using React Three Fiber & GSAP for immersive experiences  
 🧠 **Problem Solver** passionate about Data Structures & Algorithms  
-🤝 **Open to Collaborations** and exciting opportunities  
+🤝 **Open to Collaborations** 
 
 ---
 
@@ -33,12 +33,6 @@
   </a>
 </div>
 ---
----
-## 🏆 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/mohd_jabir_?ext=contest" />
-</div>
 
 ## 🛠️ Tech Stack
 
@@ -49,14 +43,3 @@
 </div>
 
 ---
-
-
-
-## 🔥 Current Focus
-
-- Building production-ready MERN projects  
-- Creating 3D interactive UIs with GSAP + R3F  
-- Practicing DSA (Sliding Window, Recursion, Trees)
-
----
-
