@@ -21,19 +21,17 @@
 ---
 
 ## 🌐 Connect With Me
-
 <div align="center">
   <a href="https://leetcode.com/mohd_jabir_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="50" alt="LeetCode" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" alt="LeetCode" />
   </a>
   <a href="https://www.hackerrank.com/Akbar_Ali_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" width="50" alt="HackerRank" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="50" alt="HackerRank" />
   </a>
   <a href="https://www.linkedin.com/in/mohd-jabir-515ba7263" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
   </a>
 </div>
-
 ---
 ---
 ## 🏆 LeetCode Stats
