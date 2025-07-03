@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <b>🚀 Creating Modern Web Applications | 🎯 Problem Solver | 🌟 3D Web Experiences</b>
+  <b>🚀 Creating Modern Web Applications   |   🎯 Problem Solver   |   🌟 3D Web Experiences</b>
 </p>
 
 ## 👨‍💻 About Me
@@ -46,6 +46,3 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Jabir&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
