@@ -32,23 +32,27 @@
   <a href="https://www.linkedin.com/in/mohd-jabir-515ba7263" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Mohd-Jabir" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
-  </a>
 </div>
 
 ---
+---
+## 🏆 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/mohd_jabir_?ext=contest" />
+</div>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js,threejs" height="40" />
-  <br />
   <img src="https://raw.githubusercontent.com/Mohd-Jabir/assets/main/greensock-gsap-logo.svg" width="50" title="GSAP" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" />
 </div>
 
 ---
+
+
 
 ## 🔥 Current Focus
 
@@ -58,10 +62,3 @@
 
 ---
 
-## 🏆 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/mohd_jabir_?ext=contest" />
-</div>
-
----
