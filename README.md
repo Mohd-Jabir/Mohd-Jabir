@@ -11,11 +11,12 @@
 </div>
 
 <p align="center">
-  <b>🚀 Creating Modern Web Applications | 🎯 Problem Solver | 🌟 3D Web Experiences</b>
+  <b>🚀 Creating Modern Web Applications   |   🎯 Problem Solver   |   🌟 3D Web Experiences</b>
 </p>
 
-## 👨‍💻 About Me
-
+<div align="center">
+  <h1>About</h1>
+</div>
 🎓 **3rd Year CSE Student** at United Institute of Technology  
 💻 **MERN Stack Developer** building scalable web applications  
 🎨 **3D Web Developer** using React Three Fiber & GSAP for immersive experiences  
