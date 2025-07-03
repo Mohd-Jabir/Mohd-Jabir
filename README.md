@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>Hi 👋, I'm Mohd Jabir</h1>
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color: #2c3e50;">
+    Hi 👋, I'm Mohd Jabir
+  </h1>
 </div>
 
 <div align="center">
@@ -7,7 +9,9 @@
 </div>
 
 <p align="center">
-  <h3>🚀 Creating Modern Web Applications | 🎯 Problem Solver  | 🌟 3D Web Experiences</h3>
+  <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; color: #34495e;">
+    🚀 Creating Modern Web Applications | 🎯 Problem Solver | 🌟 3D Web Experiences
+  </h3>
 </p>
 
 <div align="center">
