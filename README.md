@@ -1,13 +1,21 @@
-# Hi 👋, I'm Mohd Jabir
+<div align="center">
+  <h1>Hi 👋, I'm Mohd Jabir</h1>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1500&color=36BCF7&center=true&vCenter=true&width=800&lines=MERN+Stack+Web+Developer;CSE+Undergraduate+Student;Problem+Solving+Enthusiast;Building+3D+Web+Experiences;Full+Stack+Developer" alt="Typing SVG" />
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=twinkling" width="100%">
 </div>
 
 <p align="center">
-  <b>🚀 Creating Modern Web Applications   |   🎯 Problem Solver   |   🌟 3D Web Experiences</b>
+  <b>🚀 Creating Modern Web Applications | 🎯 Problem Solver | 🌟 3D Web Experiences</b>
 </p>
 
 ## 👨‍💻 About Me
+
 🎓 **3rd Year CSE Student** at United Institute of Technology  
 💻 **MERN Stack Developer** building scalable web applications  
 🎨 **3D Web Developer** using React Three Fiber & GSAP for immersive experiences  
@@ -19,6 +27,7 @@
 </div>
 
 ## 🌐 Connect With Me
+
 <div align="center">
   <a href="https://leetcode.com/mohd_jabir_" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" alt="LeetCode" />
@@ -36,6 +45,7 @@
 </div>
 
 ## 🛠️ Tech Stack
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js,threejs" height="40" />
   <img src="https://raw.githubusercontent.com/Mohd-Jabir/assets/main/greensock-gsap-logo.svg" width="50" title="GSAP" />
@@ -43,6 +53,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Jabir&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
-
