@@ -7,9 +7,11 @@
 </div>
 
 <p align="center">
-  <h3><b>🚀 Creating Modern Web Applications   |   🎯 Problem Solver   |   🌟 3D Web Experiences</b></h3>
+  <h3>🚀 Creating Modern Web Applications | 🎯 Problem Solver  | 🌟 3D Web Experiences</h3>
 </p>
-
+div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
+</div>
 ## 👨‍💻 About Me
 
 🎓 **3rd Year CSE Student** at United Institute of Technology  
@@ -17,10 +19,6 @@
 🎨 **3D Web Developer** using React Three Fiber & GSAP for immersive experiences  
 🧠 **Problem Solver** passionate about Data Structures & Algorithms  
 🤝 **Open to Collaborations** 
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
-</div>
 
 ## 🌐 Connect With Me
 
@@ -36,18 +34,10 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
-</div>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js,threejs" height="40" />
   <img src="https://raw.githubusercontent.com/Mohd-Jabir/assets/main/greensock-gsap-logo.svg" width="50" title="GSAP" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Jabir&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
