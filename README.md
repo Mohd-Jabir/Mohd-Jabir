@@ -37,16 +37,17 @@
 
 ### 🛠 Tech Stack
 
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="border-radius: 50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" style="border-radius: 50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" style="border-radius: 50%; background-color:white;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" style="border-radius: 50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="border-radius: 50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="border-radius: 50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="border-radius: 50%;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="60" height="60" style="border-radius: 50%;" />
-  <img src="https://avatars.githubusercontent.com/u/50982164?s=200&v=4" width="60" height="60" style="border-radius: 50%;" alt="GSAP logo"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
+  <img src="https://skillicons.dev/icons?i=express" width="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
+  <img src="https://skillicons.dev/icons?i=html" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" />
+  <img src="https://skillicons.dev/icons?i=threejs" width="50" />
+  <img src="https://raw.githubusercontent.com/Mohd-Jabir/assets/main/greensock-gsap-logo.svg" width="50" title="GSAP" />
 </p>
 
 ---
