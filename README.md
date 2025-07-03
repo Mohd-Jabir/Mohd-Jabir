@@ -9,7 +9,8 @@
 <p align="center">
   <h3>🚀 Creating Modern Web Applications | 🎯 Problem Solver  | 🌟 3D Web Experiences</h3>
 </p>
-div align="center">
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
 </div>
 
