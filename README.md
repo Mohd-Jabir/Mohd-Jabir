@@ -24,13 +24,16 @@
 
 <div align="center">
   <a href="https://leetcode.com/mohd_jabir_" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" width="100" />
+    <img src="https://skillicons.dev/icons?i=leetcode" width="50" alt="LeetCode" />
   </a>
   <a href="https://www.hackerrank.com/Akbar_Ali_" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" width="120"/>
+    <img src="https://skillicons.dev/icons?i=hackerrank" width="50" alt="HackerRank" />
   </a>
   <a href="https://www.linkedin.com/in/mohd-jabir-515ba7263" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" width="100"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Mohd-Jabir" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
   </a>
 </div>
 
@@ -62,4 +65,3 @@
 </div>
 
 ---
-
