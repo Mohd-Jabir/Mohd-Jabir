@@ -12,6 +12,7 @@
 div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
 </div>
+
 ## 👨‍💻 About Me
 
 🎓 **3rd Year CSE Student** at United Institute of Technology  
@@ -38,6 +39,5 @@ div align="center">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js,threejs" height="40" />
-  <img src="https://raw.githubusercontent.com/Mohd-Jabir/assets/main/greensock-gsap-logo.svg" width="50" title="GSAP" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" />
 </div>
