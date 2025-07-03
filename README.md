@@ -18,8 +18,10 @@
 
 🎓 **3rd Year CSE Student** at United Institute of Technology  
 💻 **MERN Stack Developer** 
+
 🎨 **3D Web Developer** using React Three Fiber & GSAP for immersive experiences  
 🧠 **Problem Solver** passionate about Data Structures & Algorithms  
+
 🤝 **Open to Collaborations** 
 
 ## 🌐 Connect With Me
