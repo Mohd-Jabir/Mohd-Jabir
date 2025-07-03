@@ -7,10 +7,6 @@
   <b>🚀 Creating Modern Web Applications | 🎯 Problem Solver | 🌟 3D Web Experiences</b>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=twinkling" width="100%">
-</div>
-
 ## 👨‍💻 About Me
 🎓 **3rd Year CSE Student** at United Institute of Technology  
 💻 **MERN Stack Developer** building scalable web applications  
