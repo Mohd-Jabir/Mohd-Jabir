@@ -1,5 +1,8 @@
+<!-- Include Orbitron via Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap" rel="stylesheet">
+
 <div align="center">
-  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color: #2c3e50;">
+  <h1 style="font-family: 'Orbitron', sans-serif; font-weight: 600; color: #0ff;">
     Hi 👋, I'm Mohd Jabir
   </h1>
 </div>
@@ -9,7 +12,7 @@
 </div>
 
 <p align="center">
-  <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; color: #34495e;">
+  <h3 style="font-family: 'Orbitron', sans-serif; font-weight: 500; color: #00e6e6;">
     🚀 Creating Modern Web Applications | 🎯 Problem Solver | 🌟 3D Web Experiences
   </h3>
 </p>
