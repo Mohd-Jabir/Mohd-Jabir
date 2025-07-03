@@ -3,25 +3,20 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1500&color=36BCF7&center=true&vCenter=true&width=800&lines=MERN+Stack+Web+Developer;CSE+Undergraduate+Student;Problem+Solving+Enthusiast;Building+3D+Web+Experiences;Full+Stack+Developer" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=twinkling" width="100%">
 </div>
 
 <p align="center">
-  <b>🚀 Creating Modern Web Applications   |   🎯 Problem Solver   |   🌟 3D Web Experiences</b>
+  <h3><b>🚀 Creating Modern Web Applications   |   🎯 Problem Solver   |   🌟 3D Web Experiences</b></h3>
 </p>
 
-<div align="center">
-  <h1>About</h1>
-</div>
+## 👨‍💻 About Me
+
 🎓 **3rd Year CSE Student** at United Institute of Technology  
-💻 **MERN Stack Developer** building scalable web applications  
+💻 **MERN Stack Developer** 
 🎨 **3D Web Developer** using React Three Fiber & GSAP for immersive experiences  
 🧠 **Problem Solver** passionate about Data Structures & Algorithms  
-🤝 **Open to Collaborations** on innovative projects  
+🤝 **Open to Collaborations** 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
