@@ -1,16 +1,15 @@
 # Hi 👋, I'm Mohd Jabir
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Web+Developer;CSE+Undergraduate+Student;Problem+Solving+Enthusiast;Building+3D+Web+Experiences;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1500&color=36BCF7&center=true&vCenter=true&width=800&lines=MERN+Stack+Web+Developer;CSE+Undergraduate+Student;Problem+Solving+Enthusiast;Building+3D+Web+Experiences;Full+Stack+Developer" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 <p align="center">
   <b>🚀 Creating Modern Web Applications | 🎯 Problem Solver | 🌟 3D Web Experiences</b>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=twinkling" width="100%">
+</div>
 
 ## 👨‍💻 About Me
 
@@ -21,10 +20,11 @@
 🤝 **Open to Collaborations** on innovative projects  
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
 </div>
 
 ## 🌐 Connect With Me
+
 <div align="center">
   <a href="https://leetcode.com/mohd_jabir_" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" alt="LeetCode" />
@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
 </div>
 
 ## 🛠️ Tech Stack
@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
 </div>
 
 <div align="center">
