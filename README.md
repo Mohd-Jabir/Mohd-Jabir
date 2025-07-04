@@ -52,5 +52,5 @@
 </div>
 
 ## 🏆 Contest Performance
-https://leetcode-badge-showcase.vercel.app/api?username=mohd_jabir_&theme=dark
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=mohd_jabir_&theme=dark" alt="LeetCode Badges" />
 
