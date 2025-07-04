@@ -45,8 +45,9 @@
 </div>
 
 ## 🛠️ Tech Stack
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js,threejs" height="40" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,cpp" height="40" />
+  <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
 </div>
+
