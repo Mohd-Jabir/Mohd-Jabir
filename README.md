@@ -52,9 +52,10 @@
 </div>
 
 ## 🏆 Contest Performance
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=mohd_jabir_&theme=dark" alt="LeetCode Badges" />
-<img src="https://hrcdn.net/community-frontend/assets/badges/problem-solving-1-a5f2cdf5c4.svg" width="100"/>
-<img src="https://hrcdn.net/community-frontend/assets/badges/python-1-6e9651b3ae.svg" width="100"/>
+
+<div align="center>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=mohd_jabir_&theme=dark" alt="LeetCode Badges" /></div>
+
 
 
 
