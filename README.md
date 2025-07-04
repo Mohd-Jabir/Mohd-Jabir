@@ -53,10 +53,9 @@
 
 ## 🏆 Contest Performance
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=mohd_jabir_&theme=dark" alt="LeetCode Badges" />
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode_Rating-1500-blue?logo=leetcode&style=for-the-badge" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gold_medal_icon.svg/1024px-Gold_medal_icon.svg.png" height="30" />
-</p>
+<img src="https://hrcdn.net/community-frontend/assets/badges/problem-solving-1-a5f2cdf5c4.svg" width="100"/>
+<img src="https://hrcdn.net/community-frontend/assets/badges/python-1-6e9651b3ae.svg" width="100"/>
+
 
 
 
