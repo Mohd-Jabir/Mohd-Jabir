@@ -10,7 +10,7 @@
 
 <p align="center">
   <h3 style="font-family: 'Orbitron', sans-serif; font-weight: 500; color: #00e6e6;">
-    🚀 Creating Modern Web  | 🎯 Problem Solver | 🌟 3D Web Experiences
+    🚀 Creating Modern Web  | 🎯 Problem Solver | 🌟 ( Basic ) 3D Web Experiences
   </h3>
 </p>
 
