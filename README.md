@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **3rd Year CSE Student** at United Institute of Technology
+🎓 **4rd Year CSE Student** at United Institute of Technology
 
 💻 **MERN Stack Developer** 
 
